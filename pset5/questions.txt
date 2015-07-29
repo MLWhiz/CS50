@@ -1,0 +1,11 @@
+0.  The largest word
+1.  lets us get resource usage. can be time or memory.
+2.  16
+3.  Because you have to do operations like this a->ru_utime. i.e. go to a and get the value of ru_utime
+4.  Main reads the words from the file till the end of the file. it reads the words character by character and checks if the are alphabetical or apostrophe. if not it skips the word
+5.  reading through scanf will give you the whole line instead of the words
+6.  So that their value cannot be changed in function
+7.  Hash table of linked lists
+8.  3 sec to .33 sec
+9.  changed the hash function from 26 letters to 26*26 buckets
+10. i wanted to make use of the alphabetical sorting in linked lists but couldnt
